@@ -1,4 +1,4 @@
-# Tarunkumar-Mudhol
+# Sushmita-Kalagond
 # Coding Language: Java
 
  Problem 1 - Simple Calculator
